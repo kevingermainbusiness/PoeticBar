@@ -12,12 +12,12 @@ include_once('ext/functions.php');
       <div class="starter-template">
       <h1 class="cover-heading"><?=WEBSITE_NAME?> <span>(Petite description)</span></h1>
       <p class="lead">
-      <?=WEBSITE_NAME?> est un mini market qui vou offre la meilleure experience individuelle dans un market,
+      <?=WEBSITE_NAME?> est un mini market qui vous offre la meilleure experience individuelle dans un market,
       et les produits les plus essentiels de votre vie. 
       Passer nous voir a la 2e Ruelle Nazon #29. Notre tel c'est +509 4848 2323.
       </p>
       <label class="alert alert-success">
-      <p>Realise par: Germain Kevin, Marcelus Sophie Laube, Hoctamard Gerda</p>
+      <p>Realise par: Germain Kevin, Hoctamard Gerda</p>
       </label>
       </div>
 
