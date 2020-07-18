@@ -16,6 +16,9 @@ include_once('ext/functions.php');
       et les produits les plus essentiels de votre vie. 
       Passer nous voir a la 2e Ruelle Nazon #29. Notre tel c'est +509 4848 2323.
       </p>
+      <label class="alert alert-success">
+      <p>Realise par: Germain Kevin, Marcelus Sophie Laube, Hoctamard Gerda</p>
+      </label>
       </div>
 
 </main>
